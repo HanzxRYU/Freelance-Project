@@ -559,32 +559,41 @@ video {
   margin-right: auto;
 }
 
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+
 .mt-4 {
   margin-top: 1rem;
 }
 
-.h-\[\] {
-  height: ;
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
+.h-\[100px\] {
+  height: 100px;
 }
 
 .h-\[40px\] {
   height: 40px;
 }
 
-.w-\[\] {
-  width: ;
+.w-\[100px\] {
+  width: 100px;
 }
 
 .w-\[40px\] {
   width: 40px;
 }
 
-.rounded {
-  border-radius: 0.25rem;
-}
-
 .rounded-lg {
   border-radius: 0.5rem;
+}
+
+.bg-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
 .bg-orange-600 {
